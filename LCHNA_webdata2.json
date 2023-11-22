@@ -1,7 +1,7 @@
 [
   {
     "Locality": "Litchfield County",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 182193,
         "POP001v10": 189927,
@@ -53,7 +53,7 @@
   },
   {
     "Locality": "Barkhamsted",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 3494,
         "POP001v10": 3799,
@@ -105,7 +105,7 @@
   },
   {
     "Locality": "Bethlehem",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 3422,
         "POP001v10": 3607,
@@ -157,7 +157,7 @@
   },
   {
     "Locality": "Bridgewater",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 1824,
         "POP001v10": 1727,
@@ -209,7 +209,7 @@
   },
   {
     "Locality": "Canaan",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 1081,
         "POP001v10": 1234,
@@ -261,7 +261,7 @@
   },
   {
     "Locality": "Colebrook",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 1471,
         "POP001v10": 1485,
@@ -313,7 +313,7 @@
   },
   {
     "Locality": "Cornwall",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 1434,
         "POP001v10": 1420,
@@ -365,7 +365,7 @@
   },
   {
     "Locality": "Goshen",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 2697,
         "POP001v10": 2976,
@@ -417,7 +417,7 @@
   },
   {
     "Locality": "Harwinton",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 5283,
         "POP001v10": 5642,
@@ -469,7 +469,7 @@
   },
   {
     "Locality": "Kent",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 2858,
         "POP001v10": 2979,
@@ -521,7 +521,7 @@
   },
   {
     "Locality": "Litchfield",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 8316,
         "POP001v10": 8466,
@@ -573,7 +573,7 @@
   },
   {
     "Locality": "Morris",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 2301,
         "POP001v10": 2388,
@@ -625,7 +625,7 @@
   },
   {
     "Locality": "New Hartford",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 6088,
         "POP001v10": 6970,
@@ -677,7 +677,7 @@
   },
   {
     "Locality": "New Milford",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 27121,
         "POP001v10": 28142,
@@ -729,7 +729,7 @@
   },
   {
     "Locality": "Norfolk",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 1660,
         "POP001v10": 1709,
@@ -781,7 +781,7 @@
   },
   {
     "Locality": "North Canaan",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 3350,
         "POP001v10": 3315,
@@ -833,7 +833,7 @@
   },
   {
     "Locality": "Plymouth",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 11634,
         "POP001v10": 12243,
@@ -885,7 +885,7 @@
   },
   {
     "Locality": "Roxbury",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 2136,
         "POP001v10": 2262,
@@ -937,7 +937,7 @@
   },
   {
     "Locality": "Salisbury",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 3977,
         "POP001v10": 3741,
@@ -989,7 +989,7 @@
   },
   {
     "Locality": "Sharon",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 2968,
         "POP001v10": 2782,
@@ -1041,7 +1041,7 @@
   },
   {
     "Locality": "Thomaston",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 7503,
         "POP001v10": 7887,
@@ -1093,7 +1093,7 @@
   },
   {
     "Locality": "Torrington",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 35202,
         "POP001v10": 36383,
@@ -1145,7 +1145,7 @@
   },
   {
     "Locality": "Warren",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 1254,
         "POP001v10": 1461,
@@ -1197,7 +1197,7 @@
   },
   {
     "Locality": "Washington",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 3596,
         "POP001v10": 3578,
@@ -1249,7 +1249,7 @@
   },
   {
     "Locality": "Watertown",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 21661,
         "POP001v10": 22514,
@@ -1301,7 +1301,7 @@
   },
   {
     "Locality": "Winchester",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 10664,
         "POP001v10": 11242,
@@ -1353,7 +1353,7 @@
   },
   {
     "Locality": "Woodbury",
-    "nested": [
+    "Vars": [
       {
         "POP001v00": 9198,
         "POP001v10": 9975,
