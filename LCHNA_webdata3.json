@@ -65702,5 +65702,707 @@
       ],
       "type": "pie"
     }
+  },
+  {
+    "Locality": "Barkhamsted",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900502760",
+          "Variable": "Owner-occupied units",
+          "value": 1213,
+          "percent": 90.5,
+          "y": 90.5,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900502760",
+          "Variable": "Renter-occupied units",
+          "value": 128,
+          "percent": 9.5,
+          "y": 9.5,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Bethlehem",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900504930",
+          "Variable": "Owner-occupied units",
+          "value": 1031,
+          "percent": 76.9,
+          "y": 76.9,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900504930",
+          "Variable": "Renter-occupied units",
+          "value": 309,
+          "percent": 23.1,
+          "y": 23.1,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Bridgewater",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900508210",
+          "Variable": "Owner-occupied units",
+          "value": 637,
+          "percent": 88.1,
+          "y": 88.1,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900508210",
+          "Variable": "Renter-occupied units",
+          "value": 86,
+          "percent": 11.9,
+          "y": 11.9,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Canaan",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900510940",
+          "Variable": "Owner-occupied units",
+          "value": 476,
+          "percent": 86.1,
+          "y": 86.1,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900510940",
+          "Variable": "Renter-occupied units",
+          "value": 77,
+          "percent": 13.9,
+          "y": 13.9,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Colebrook",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900516050",
+          "Variable": "Owner-occupied units",
+          "value": 554,
+          "percent": 92.6,
+          "y": 92.6,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900516050",
+          "Variable": "Renter-occupied units",
+          "value": 44,
+          "percent": 7.4,
+          "y": 7.4,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Cornwall",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900517240",
+          "Variable": "Owner-occupied units",
+          "value": 512,
+          "percent": 81.4,
+          "y": 81.4,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900517240",
+          "Variable": "Renter-occupied units",
+          "value": 117,
+          "percent": 18.6,
+          "y": 18.6,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Goshen",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900532290",
+          "Variable": "Owner-occupied units",
+          "value": 1030,
+          "percent": 89.4,
+          "y": 89.4,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900532290",
+          "Variable": "Renter-occupied units",
+          "value": 122,
+          "percent": 10.6,
+          "y": 10.6,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Harwinton",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900537280",
+          "Variable": "Owner-occupied units",
+          "value": 1919,
+          "percent": 93.5,
+          "y": 93.5,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900537280",
+          "Variable": "Renter-occupied units",
+          "value": 134,
+          "percent": 6.5,
+          "y": 6.5,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Kent",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900540290",
+          "Variable": "Owner-occupied units",
+          "value": 968,
+          "percent": 77.3,
+          "y": 77.3,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900540290",
+          "Variable": "Renter-occupied units",
+          "value": 284,
+          "percent": 22.7,
+          "y": 22.7,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Litchfield",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900543370",
+          "Variable": "Owner-occupied units",
+          "value": 2685,
+          "percent": 80.6,
+          "y": 80.6,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900543370",
+          "Variable": "Renter-occupied units",
+          "value": 647,
+          "percent": 19.4,
+          "y": 19.4,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Litchfield County",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "09005",
+          "Variable": "Owner-occupied units",
+          "value": 57096,
+          "percent": 76.3,
+          "y": 76.3,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "09005",
+          "Variable": "Renter-occupied units",
+          "value": 17761,
+          "percent": 23.7,
+          "y": 23.7,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Morris",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900549460",
+          "Variable": "Owner-occupied units",
+          "value": 752,
+          "percent": 88.9,
+          "y": 88.9,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900549460",
+          "Variable": "Renter-occupied units",
+          "value": 94,
+          "percent": 11.1,
+          "y": 11.1,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "New Hartford",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900551350",
+          "Variable": "Owner-occupied units",
+          "value": 2216,
+          "percent": 84.6,
+          "y": 84.6,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900551350",
+          "Variable": "Renter-occupied units",
+          "value": 404,
+          "percent": 15.4,
+          "y": 15.4,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "New Milford",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900552630",
+          "Variable": "Owner-occupied units",
+          "value": 8454,
+          "percent": 79.3,
+          "y": 79.3,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900552630",
+          "Variable": "Renter-occupied units",
+          "value": 2202,
+          "percent": 20.7,
+          "y": 20.7,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Norfolk",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900553470",
+          "Variable": "Owner-occupied units",
+          "value": 533,
+          "percent": 78.3,
+          "y": 78.3,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900553470",
+          "Variable": "Renter-occupied units",
+          "value": 148,
+          "percent": 21.7,
+          "y": 21.7,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "North Canaan",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900554030",
+          "Variable": "Owner-occupied units",
+          "value": 787,
+          "percent": 63.3,
+          "y": 63.3,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900554030",
+          "Variable": "Renter-occupied units",
+          "value": 457,
+          "percent": 36.7,
+          "y": 36.7,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Plymouth",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900560750",
+          "Variable": "Owner-occupied units",
+          "value": 3598,
+          "percent": 76,
+          "y": 76,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900560750",
+          "Variable": "Renter-occupied units",
+          "value": 1136,
+          "percent": 24,
+          "y": 24,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Roxbury",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900565930",
+          "Variable": "Owner-occupied units",
+          "value": 730,
+          "percent": 77.3,
+          "y": 77.3,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900565930",
+          "Variable": "Renter-occupied units",
+          "value": 214,
+          "percent": 22.7,
+          "y": 22.7,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Salisbury",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900566420",
+          "Variable": "Owner-occupied units",
+          "value": 1075,
+          "percent": 72,
+          "y": 72,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900566420",
+          "Variable": "Renter-occupied units",
+          "value": 418,
+          "percent": 28,
+          "y": 28,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Sharon",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900567960",
+          "Variable": "Owner-occupied units",
+          "value": 897,
+          "percent": 70,
+          "y": 70,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900567960",
+          "Variable": "Renter-occupied units",
+          "value": 384,
+          "percent": 30,
+          "y": 30,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Thomaston",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900575730",
+          "Variable": "Owner-occupied units",
+          "value": 2399,
+          "percent": 78.1,
+          "y": 78.1,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900575730",
+          "Variable": "Renter-occupied units",
+          "value": 672,
+          "percent": 21.9,
+          "y": 21.9,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Torrington",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900576570",
+          "Variable": "Owner-occupied units",
+          "value": 9770,
+          "percent": 67.9,
+          "y": 67.9,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900576570",
+          "Variable": "Renter-occupied units",
+          "value": 4619,
+          "percent": 32.1,
+          "y": 32.1,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Warren",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900579510",
+          "Variable": "Owner-occupied units",
+          "value": 517,
+          "percent": 93.7,
+          "y": 93.7,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900579510",
+          "Variable": "Renter-occupied units",
+          "value": 35,
+          "percent": 6.3,
+          "y": 6.3,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Washington",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900579720",
+          "Variable": "Owner-occupied units",
+          "value": 1054,
+          "percent": 74.1,
+          "y": 74.1,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900579720",
+          "Variable": "Renter-occupied units",
+          "value": 369,
+          "percent": 25.9,
+          "y": 25.9,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Watertown",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900580490",
+          "Variable": "Owner-occupied units",
+          "value": 6946,
+          "percent": 79.5,
+          "y": 79.5,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900580490",
+          "Variable": "Renter-occupied units",
+          "value": 1789,
+          "percent": 20.5,
+          "y": 20.5,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Winchester",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900586440",
+          "Variable": "Owner-occupied units",
+          "value": 2832,
+          "percent": 60.1,
+          "y": 60.1,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900586440",
+          "Variable": "Renter-occupied units",
+          "value": 1882,
+          "percent": 39.9,
+          "y": 39.9,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
+  },
+  {
+    "Locality": "Woodbury",
+    "Chart": "TEN",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "GEOID": "0900587910",
+          "Variable": "Owner-occupied units",
+          "value": 3511,
+          "percent": 78,
+          "y": 78,
+          "name": "Owner-occupied units"
+        },
+        {
+          "GEOID": "0900587910",
+          "Variable": "Renter-occupied units",
+          "value": 990,
+          "percent": 22,
+          "y": 22,
+          "name": "Renter-occupied units"
+        }
+      ],
+      "type": "pie"
+    }
   }
 ]
