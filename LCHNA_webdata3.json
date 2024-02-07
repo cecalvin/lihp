@@ -9208,6 +9208,1423 @@
   },
   {
     "Locality": "Barkhamsted",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Barkhamsted",
+          "change": null,
+          "Year": "2019",
+          "value": 255000,
+          "y": 255000,
+          "name": "2019"
+        },
+        {
+          "Geography": "Barkhamsted",
+          "change": null,
+          "Year": "2020",
+          "value": 280000,
+          "y": 280000,
+          "name": "2020"
+        },
+        {
+          "Geography": "Barkhamsted",
+          "change": null,
+          "Year": "2021",
+          "value": 318795,
+          "y": 318795,
+          "name": "2021"
+        },
+        {
+          "Geography": "Barkhamsted",
+          "change": null,
+          "Year": "2022",
+          "value": 355000,
+          "y": 355000,
+          "name": "2022"
+        },
+        {
+          "Geography": "Barkhamsted",
+          "change": "+52.7%<br>since 2019",
+          "Year": "2023",
+          "value": 389500,
+          "y": 389500,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Bethlehem",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Bethlehem",
+          "change": null,
+          "Year": "2019",
+          "value": 335000,
+          "y": 335000,
+          "name": "2019"
+        },
+        {
+          "Geography": "Bethlehem",
+          "change": null,
+          "Year": "2020",
+          "value": 335000,
+          "y": 335000,
+          "name": "2020"
+        },
+        {
+          "Geography": "Bethlehem",
+          "change": null,
+          "Year": "2021",
+          "value": 410000,
+          "y": 410000,
+          "name": "2021"
+        },
+        {
+          "Geography": "Bethlehem",
+          "change": null,
+          "Year": "2022",
+          "value": 430000,
+          "y": 430000,
+          "name": "2022"
+        },
+        {
+          "Geography": "Bethlehem",
+          "change": "+19.3%<br>since 2019",
+          "Year": "2023",
+          "value": 399500,
+          "y": 399500,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Bridgewater",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Bridgewater",
+          "change": null,
+          "Year": "2019",
+          "value": 421000,
+          "y": 421000,
+          "name": "2019"
+        },
+        {
+          "Geography": "Bridgewater",
+          "change": null,
+          "Year": "2020",
+          "value": 585000,
+          "y": 585000,
+          "name": "2020"
+        },
+        {
+          "Geography": "Bridgewater",
+          "change": null,
+          "Year": "2021",
+          "value": 659500,
+          "y": 659500,
+          "name": "2021"
+        },
+        {
+          "Geography": "Bridgewater",
+          "change": null,
+          "Year": "2022",
+          "value": 608200,
+          "y": 608200,
+          "name": "2022"
+        },
+        {
+          "Geography": "Bridgewater",
+          "change": "+50.4%<br>since 2019",
+          "Year": "2023",
+          "value": 633150,
+          "y": 633150,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Canaan",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Canaan",
+          "change": null,
+          "Year": "2019",
+          "value": 218500,
+          "y": 218500,
+          "name": "2019"
+        },
+        {
+          "Geography": "Canaan",
+          "change": null,
+          "Year": "2020",
+          "value": 257500,
+          "y": 257500,
+          "name": "2020"
+        },
+        {
+          "Geography": "Canaan",
+          "change": null,
+          "Year": "2021",
+          "value": 410000,
+          "y": 410000,
+          "name": "2021"
+        },
+        {
+          "Geography": "Canaan",
+          "change": null,
+          "Year": "2022",
+          "value": 595000,
+          "y": 595000,
+          "name": "2022"
+        },
+        {
+          "Geography": "Canaan",
+          "change": "+230.2%<br>since 2019",
+          "Year": "2023",
+          "value": 721500,
+          "y": 721500,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Colebrook",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Colebrook",
+          "change": null,
+          "Year": "2019",
+          "value": 235000,
+          "y": 235000,
+          "name": "2019"
+        },
+        {
+          "Geography": "Colebrook",
+          "change": null,
+          "Year": "2020",
+          "value": 329000,
+          "y": 329000,
+          "name": "2020"
+        },
+        {
+          "Geography": "Colebrook",
+          "change": null,
+          "Year": "2021",
+          "value": 315000,
+          "y": 315000,
+          "name": "2021"
+        },
+        {
+          "Geography": "Colebrook",
+          "change": null,
+          "Year": "2022",
+          "value": 417500,
+          "y": 417500,
+          "name": "2022"
+        },
+        {
+          "Geography": "Colebrook",
+          "change": "+2.1%<br>since 2019",
+          "Year": "2023",
+          "value": 240000,
+          "y": 240000,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Cornwall",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Cornwall",
+          "change": null,
+          "Year": "2019",
+          "value": 375000,
+          "y": 375000,
+          "name": "2019"
+        },
+        {
+          "Geography": "Cornwall",
+          "change": null,
+          "Year": "2020",
+          "value": 547500,
+          "y": 547500,
+          "name": "2020"
+        },
+        {
+          "Geography": "Cornwall",
+          "change": null,
+          "Year": "2021",
+          "value": 515000,
+          "y": 515000,
+          "name": "2021"
+        },
+        {
+          "Geography": "Cornwall",
+          "change": null,
+          "Year": "2022",
+          "value": 800000,
+          "y": 800000,
+          "name": "2022"
+        },
+        {
+          "Geography": "Cornwall",
+          "change": "+32.8%<br>since 2019",
+          "Year": "2023",
+          "value": 498000,
+          "y": 498000,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Goshen",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Goshen",
+          "change": null,
+          "Year": "2019",
+          "value": 320000,
+          "y": 320000,
+          "name": "2019"
+        },
+        {
+          "Geography": "Goshen",
+          "change": null,
+          "Year": "2020",
+          "value": 447500,
+          "y": 447500,
+          "name": "2020"
+        },
+        {
+          "Geography": "Goshen",
+          "change": null,
+          "Year": "2021",
+          "value": 479900,
+          "y": 479900,
+          "name": "2021"
+        },
+        {
+          "Geography": "Goshen",
+          "change": null,
+          "Year": "2022",
+          "value": 606000,
+          "y": 606000,
+          "name": "2022"
+        },
+        {
+          "Geography": "Goshen",
+          "change": "+72.7%<br>since 2019",
+          "Year": "2023",
+          "value": 552500,
+          "y": 552500,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Harwinton",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Harwinton",
+          "change": null,
+          "Year": "2019",
+          "value": 258750,
+          "y": 258750,
+          "name": "2019"
+        },
+        {
+          "Geography": "Harwinton",
+          "change": null,
+          "Year": "2020",
+          "value": 275000,
+          "y": 275000,
+          "name": "2020"
+        },
+        {
+          "Geography": "Harwinton",
+          "change": null,
+          "Year": "2021",
+          "value": 327500,
+          "y": 327500,
+          "name": "2021"
+        },
+        {
+          "Geography": "Harwinton",
+          "change": null,
+          "Year": "2022",
+          "value": 342500,
+          "y": 342500,
+          "name": "2022"
+        },
+        {
+          "Geography": "Harwinton",
+          "change": "+36.2%<br>since 2019",
+          "Year": "2023",
+          "value": 352500,
+          "y": 352500,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Kent",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Kent",
+          "change": null,
+          "Year": "2019",
+          "value": 367250,
+          "y": 367250,
+          "name": "2019"
+        },
+        {
+          "Geography": "Kent",
+          "change": null,
+          "Year": "2020",
+          "value": 372750,
+          "y": 372750,
+          "name": "2020"
+        },
+        {
+          "Geography": "Kent",
+          "change": null,
+          "Year": "2021",
+          "value": 465000,
+          "y": 465000,
+          "name": "2021"
+        },
+        {
+          "Geography": "Kent",
+          "change": null,
+          "Year": "2022",
+          "value": 525000,
+          "y": 525000,
+          "name": "2022"
+        },
+        {
+          "Geography": "Kent",
+          "change": "+28.3%<br>since 2019",
+          "Year": "2023",
+          "value": 471000,
+          "y": 471000,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Litchfield",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Litchfield",
+          "change": null,
+          "Year": "2019",
+          "value": 270100,
+          "y": 270100,
+          "name": "2019"
+        },
+        {
+          "Geography": "Litchfield",
+          "change": null,
+          "Year": "2020",
+          "value": 355000,
+          "y": 355000,
+          "name": "2020"
+        },
+        {
+          "Geography": "Litchfield",
+          "change": null,
+          "Year": "2021",
+          "value": 396950,
+          "y": 396950,
+          "name": "2021"
+        },
+        {
+          "Geography": "Litchfield",
+          "change": null,
+          "Year": "2022",
+          "value": 497450,
+          "y": 497450,
+          "name": "2022"
+        },
+        {
+          "Geography": "Litchfield",
+          "change": "+64.8%<br>since 2019",
+          "Year": "2023",
+          "value": 445000,
+          "y": 445000,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Litchfield County",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Litchfield County",
+          "change": null,
+          "Year": "2019",
+          "value": "NA",
+          "y": "NA",
+          "name": "2019"
+        },
+        {
+          "Geography": "Litchfield County",
+          "change": null,
+          "Year": "2020",
+          "value": "NA",
+          "y": "NA",
+          "name": "2020"
+        },
+        {
+          "Geography": "Litchfield County",
+          "change": null,
+          "Year": "2021",
+          "value": "NA",
+          "y": "NA",
+          "name": "2021"
+        },
+        {
+          "Geography": "Litchfield County",
+          "change": null,
+          "Year": "2022",
+          "value": "NA",
+          "y": "NA",
+          "name": "2022"
+        },
+        {
+          "Geography": "Litchfield County",
+          "change": null,
+          "Year": "2023",
+          "value": "NA",
+          "y": "NA",
+          "name": "2023"
+        },
+        {
+          "Geography": "Litchfield County",
+          "change": null,
+          "Year": "2019",
+          "value": "NA",
+          "y": "NA",
+          "name": "2019"
+        },
+        {
+          "Geography": "Litchfield County",
+          "change": null,
+          "Year": "2020",
+          "value": "NA",
+          "y": "NA",
+          "name": "2020"
+        },
+        {
+          "Geography": "Litchfield County",
+          "change": null,
+          "Year": "2021",
+          "value": "NA",
+          "y": "NA",
+          "name": "2021"
+        },
+        {
+          "Geography": "Litchfield County",
+          "change": null,
+          "Year": "2022",
+          "value": "NA",
+          "y": "NA",
+          "name": "2022"
+        },
+        {
+          "Geography": "Litchfield County",
+          "change": null,
+          "Year": "2023",
+          "value": "NA",
+          "y": "NA",
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Morris",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Morris",
+          "change": null,
+          "Year": "2019",
+          "value": 285000,
+          "y": 285000,
+          "name": "2019"
+        },
+        {
+          "Geography": "Morris",
+          "change": null,
+          "Year": "2020",
+          "value": 379900,
+          "y": 379900,
+          "name": "2020"
+        },
+        {
+          "Geography": "Morris",
+          "change": null,
+          "Year": "2021",
+          "value": 448750,
+          "y": 448750,
+          "name": "2021"
+        },
+        {
+          "Geography": "Morris",
+          "change": null,
+          "Year": "2022",
+          "value": 375000,
+          "y": 375000,
+          "name": "2022"
+        },
+        {
+          "Geography": "Morris",
+          "change": "+82.5%<br>since 2019",
+          "Year": "2023",
+          "value": 520000,
+          "y": 520000,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "New Hartford",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "New Hartford",
+          "change": null,
+          "Year": "2019",
+          "value": 231500,
+          "y": 231500,
+          "name": "2019"
+        },
+        {
+          "Geography": "New Hartford",
+          "change": null,
+          "Year": "2020",
+          "value": 290000,
+          "y": 290000,
+          "name": "2020"
+        },
+        {
+          "Geography": "New Hartford",
+          "change": null,
+          "Year": "2021",
+          "value": 325000,
+          "y": 325000,
+          "name": "2021"
+        },
+        {
+          "Geography": "New Hartford",
+          "change": null,
+          "Year": "2022",
+          "value": 341000,
+          "y": 341000,
+          "name": "2022"
+        },
+        {
+          "Geography": "New Hartford",
+          "change": "+58.9%<br>since 2019",
+          "Year": "2023",
+          "value": 367950,
+          "y": 367950,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "New Milford",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "New Milford",
+          "change": null,
+          "Year": "2019",
+          "value": 269900,
+          "y": 269900,
+          "name": "2019"
+        },
+        {
+          "Geography": "New Milford",
+          "change": null,
+          "Year": "2020",
+          "value": 315000,
+          "y": 315000,
+          "name": "2020"
+        },
+        {
+          "Geography": "New Milford",
+          "change": null,
+          "Year": "2021",
+          "value": 346500,
+          "y": 346500,
+          "name": "2021"
+        },
+        {
+          "Geography": "New Milford",
+          "change": null,
+          "Year": "2022",
+          "value": 390000,
+          "y": 390000,
+          "name": "2022"
+        },
+        {
+          "Geography": "New Milford",
+          "change": "+55.6%<br>since 2019",
+          "Year": "2023",
+          "value": 420000,
+          "y": 420000,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Norfolk",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Norfolk",
+          "change": null,
+          "Year": "2019",
+          "value": 232250,
+          "y": 232250,
+          "name": "2019"
+        },
+        {
+          "Geography": "Norfolk",
+          "change": null,
+          "Year": "2020",
+          "value": 377500,
+          "y": 377500,
+          "name": "2020"
+        },
+        {
+          "Geography": "Norfolk",
+          "change": null,
+          "Year": "2021",
+          "value": 325000,
+          "y": 325000,
+          "name": "2021"
+        },
+        {
+          "Geography": "Norfolk",
+          "change": null,
+          "Year": "2022",
+          "value": 409000,
+          "y": 409000,
+          "name": "2022"
+        },
+        {
+          "Geography": "Norfolk",
+          "change": "+63.6%<br>since 2019",
+          "Year": "2023",
+          "value": 380000,
+          "y": 380000,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "North Canaan",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "North Canaan",
+          "change": null,
+          "Year": "2019",
+          "value": 146950,
+          "y": 146950,
+          "name": "2019"
+        },
+        {
+          "Geography": "North Canaan",
+          "change": null,
+          "Year": "2020",
+          "value": 175000,
+          "y": 175000,
+          "name": "2020"
+        },
+        {
+          "Geography": "North Canaan",
+          "change": null,
+          "Year": "2021",
+          "value": 260000,
+          "y": 260000,
+          "name": "2021"
+        },
+        {
+          "Geography": "North Canaan",
+          "change": null,
+          "Year": "2022",
+          "value": 285000,
+          "y": 285000,
+          "name": "2022"
+        },
+        {
+          "Geography": "North Canaan",
+          "change": "+66.7%<br>since 2019",
+          "Year": "2023",
+          "value": 245000,
+          "y": 245000,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Plymouth",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Plymouth",
+          "change": null,
+          "Year": "2019",
+          "value": "NA",
+          "y": "NA",
+          "name": "2019"
+        },
+        {
+          "Geography": "Plymouth",
+          "change": null,
+          "Year": "2020",
+          "value": "NA",
+          "y": "NA",
+          "name": "2020"
+        },
+        {
+          "Geography": "Plymouth",
+          "change": null,
+          "Year": "2021",
+          "value": "NA",
+          "y": "NA",
+          "name": "2021"
+        },
+        {
+          "Geography": "Plymouth",
+          "change": null,
+          "Year": "2022",
+          "value": "NA",
+          "y": "NA",
+          "name": "2022"
+        },
+        {
+          "Geography": "Plymouth",
+          "change": null,
+          "Year": "2023",
+          "value": "NA",
+          "y": "NA",
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Roxbury",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Roxbury",
+          "change": null,
+          "Year": "2019",
+          "value": 592500,
+          "y": 592500,
+          "name": "2019"
+        },
+        {
+          "Geography": "Roxbury",
+          "change": null,
+          "Year": "2020",
+          "value": 730000,
+          "y": 730000,
+          "name": "2020"
+        },
+        {
+          "Geography": "Roxbury",
+          "change": null,
+          "Year": "2021",
+          "value": 1047500,
+          "y": 1047500,
+          "name": "2021"
+        },
+        {
+          "Geography": "Roxbury",
+          "change": null,
+          "Year": "2022",
+          "value": 769000,
+          "y": 769000,
+          "name": "2022"
+        },
+        {
+          "Geography": "Roxbury",
+          "change": "+71.4%<br>since 2019",
+          "Year": "2023",
+          "value": 1015500,
+          "y": 1015500,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Salisbury",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Salisbury",
+          "change": null,
+          "Year": "2019",
+          "value": 500000,
+          "y": 500000,
+          "name": "2019"
+        },
+        {
+          "Geography": "Salisbury",
+          "change": null,
+          "Year": "2020",
+          "value": 646000,
+          "y": 646000,
+          "name": "2020"
+        },
+        {
+          "Geography": "Salisbury",
+          "change": null,
+          "Year": "2021",
+          "value": 700000,
+          "y": 700000,
+          "name": "2021"
+        },
+        {
+          "Geography": "Salisbury",
+          "change": null,
+          "Year": "2022",
+          "value": 750000,
+          "y": 750000,
+          "name": "2022"
+        },
+        {
+          "Geography": "Salisbury",
+          "change": "+80.8%<br>since 2019",
+          "Year": "2023",
+          "value": 904000,
+          "y": 904000,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Sharon",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Sharon",
+          "change": null,
+          "Year": "2019",
+          "value": 410000,
+          "y": 410000,
+          "name": "2019"
+        },
+        {
+          "Geography": "Sharon",
+          "change": null,
+          "Year": "2020",
+          "value": 475000,
+          "y": 475000,
+          "name": "2020"
+        },
+        {
+          "Geography": "Sharon",
+          "change": null,
+          "Year": "2021",
+          "value": 426400,
+          "y": 426400,
+          "name": "2021"
+        },
+        {
+          "Geography": "Sharon",
+          "change": null,
+          "Year": "2022",
+          "value": 647500,
+          "y": 647500,
+          "name": "2022"
+        },
+        {
+          "Geography": "Sharon",
+          "change": "+48.8%<br>since 2019",
+          "Year": "2023",
+          "value": 610000,
+          "y": 610000,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Thomaston",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Thomaston",
+          "change": null,
+          "Year": "2019",
+          "value": 206000,
+          "y": 206000,
+          "name": "2019"
+        },
+        {
+          "Geography": "Thomaston",
+          "change": null,
+          "Year": "2020",
+          "value": 215000,
+          "y": 215000,
+          "name": "2020"
+        },
+        {
+          "Geography": "Thomaston",
+          "change": null,
+          "Year": "2021",
+          "value": 229200,
+          "y": 229200,
+          "name": "2021"
+        },
+        {
+          "Geography": "Thomaston",
+          "change": null,
+          "Year": "2022",
+          "value": 265000,
+          "y": 265000,
+          "name": "2022"
+        },
+        {
+          "Geography": "Thomaston",
+          "change": "+38.8%<br>since 2019",
+          "Year": "2023",
+          "value": 286000,
+          "y": 286000,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Torrington",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Torrington",
+          "change": null,
+          "Year": "2019",
+          "value": 138000,
+          "y": 138000,
+          "name": "2019"
+        },
+        {
+          "Geography": "Torrington",
+          "change": null,
+          "Year": "2020",
+          "value": 159900,
+          "y": 159900,
+          "name": "2020"
+        },
+        {
+          "Geography": "Torrington",
+          "change": null,
+          "Year": "2021",
+          "value": 180000,
+          "y": 180000,
+          "name": "2021"
+        },
+        {
+          "Geography": "Torrington",
+          "change": null,
+          "Year": "2022",
+          "value": 215000,
+          "y": 215000,
+          "name": "2022"
+        },
+        {
+          "Geography": "Torrington",
+          "change": "+73.9%<br>since 2019",
+          "Year": "2023",
+          "value": 240000,
+          "y": 240000,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Warren",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Warren",
+          "change": null,
+          "Year": "2019",
+          "value": 500000,
+          "y": 500000,
+          "name": "2019"
+        },
+        {
+          "Geography": "Warren",
+          "change": null,
+          "Year": "2020",
+          "value": 607500,
+          "y": 607500,
+          "name": "2020"
+        },
+        {
+          "Geography": "Warren",
+          "change": null,
+          "Year": "2021",
+          "value": 442500,
+          "y": 442500,
+          "name": "2021"
+        },
+        {
+          "Geography": "Warren",
+          "change": null,
+          "Year": "2022",
+          "value": 471000,
+          "y": 471000,
+          "name": "2022"
+        },
+        {
+          "Geography": "Warren",
+          "change": "+0%<br>since 2019",
+          "Year": "2023",
+          "value": 500000,
+          "y": 500000,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Washington",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Washington",
+          "change": null,
+          "Year": "2019",
+          "value": 528500,
+          "y": 528500,
+          "name": "2019"
+        },
+        {
+          "Geography": "Washington",
+          "change": null,
+          "Year": "2020",
+          "value": 845000,
+          "y": 845000,
+          "name": "2020"
+        },
+        {
+          "Geography": "Washington",
+          "change": null,
+          "Year": "2021",
+          "value": 718000,
+          "y": 718000,
+          "name": "2021"
+        },
+        {
+          "Geography": "Washington",
+          "change": null,
+          "Year": "2022",
+          "value": 700000,
+          "y": 700000,
+          "name": "2022"
+        },
+        {
+          "Geography": "Washington",
+          "change": "+98.9%<br>since 2019",
+          "Year": "2023",
+          "value": 1051000,
+          "y": 1051000,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Watertown",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Watertown",
+          "change": null,
+          "Year": "2019",
+          "value": 210000,
+          "y": 210000,
+          "name": "2019"
+        },
+        {
+          "Geography": "Watertown",
+          "change": null,
+          "Year": "2020",
+          "value": 245000,
+          "y": 245000,
+          "name": "2020"
+        },
+        {
+          "Geography": "Watertown",
+          "change": null,
+          "Year": "2021",
+          "value": 269000,
+          "y": 269000,
+          "name": "2021"
+        },
+        {
+          "Geography": "Watertown",
+          "change": null,
+          "Year": "2022",
+          "value": 285000,
+          "y": 285000,
+          "name": "2022"
+        },
+        {
+          "Geography": "Watertown",
+          "change": "+53.6%<br>since 2019",
+          "Year": "2023",
+          "value": 322500,
+          "y": 322500,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Winchester",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Winchester",
+          "change": null,
+          "Year": "2019",
+          "value": 145250,
+          "y": 145250,
+          "name": "2019"
+        },
+        {
+          "Geography": "Winchester",
+          "change": null,
+          "Year": "2020",
+          "value": 178000,
+          "y": 178000,
+          "name": "2020"
+        },
+        {
+          "Geography": "Winchester",
+          "change": null,
+          "Year": "2021",
+          "value": 220000,
+          "y": 220000,
+          "name": "2021"
+        },
+        {
+          "Geography": "Winchester",
+          "change": null,
+          "Year": "2022",
+          "value": 224000,
+          "y": 224000,
+          "name": "2022"
+        },
+        {
+          "Geography": "Winchester",
+          "change": "+61.8%<br>since 2019",
+          "Year": "2023",
+          "value": 235000,
+          "y": 235000,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Woodbury",
+    "Chart": "HSP",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "Geography": "Woodbury",
+          "change": null,
+          "Year": "2019",
+          "value": 284000,
+          "y": 284000,
+          "name": "2019"
+        },
+        {
+          "Geography": "Woodbury",
+          "change": null,
+          "Year": "2020",
+          "value": 334000,
+          "y": 334000,
+          "name": "2020"
+        },
+        {
+          "Geography": "Woodbury",
+          "change": null,
+          "Year": "2021",
+          "value": 399000,
+          "y": 399000,
+          "name": "2021"
+        },
+        {
+          "Geography": "Woodbury",
+          "change": null,
+          "Year": "2022",
+          "value": 410000,
+          "y": 410000,
+          "name": "2022"
+        },
+        {
+          "Geography": "Woodbury",
+          "change": "+34.5%<br>since 2019",
+          "Year": "2023",
+          "value": 382000,
+          "y": 382000,
+          "name": "2023"
+        }
+      ],
+      "type": "line",
+      "name": "Median Sale Price"
+    }
+  },
+  {
+    "Locality": "Barkhamsted",
     "Chart": "HTP",
     "series": {
       "group": "group",
