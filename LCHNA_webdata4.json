@@ -1,8 +1,8 @@
-{
-  "Locality": ["Barkhamsted", "Bethlehem", "Bridgewater", "Canaan", "Colebrook", "Cornwall", "Goshen", "Harwinton", "Kent", "Litchfield", "Litchfield County", "Morris", "New Hartford", "New Milford", "Norfolk", "North Canaan", "Plymouth", "Roxbury", "Salisbury", "Sharon", "Thomaston", "Torrington", "Warren", "Washington", "Watertown", "Winchester", "Woodbury", "Barkhamsted", "Barkhamsted", "Bethlehem", "Bethlehem", "Bridgewater", "Bridgewater", "Canaan", "Canaan", "Colebrook", "Colebrook", "Cornwall", "Cornwall", "Goshen", "Goshen", "Harwinton", "Harwinton", "Kent", "Kent", "Litchfield", "Litchfield", "Litchfield County", "Litchfield County", "Morris", "Morris", "New Hartford", "New Hartford", "New Milford", "New Milford", "Norfolk", "Norfolk", "North Canaan", "North Canaan", "Plymouth", "Plymouth", "Roxbury", "Roxbury", "Salisbury", "Salisbury", "Sharon", "Sharon", "Thomaston", "Thomaston", "Torrington", "Torrington", "Warren", "Warren", "Washington", "Washington", "Watertown", "Watertown", "Winchester", "Winchester", "Woodbury", "Woodbury", "Barkhamsted", "Bethlehem", "Bridgewater", "Canaan", "Colebrook", "Cornwall", "Goshen", "Harwinton", "Kent", "Litchfield", "Litchfield County", "Morris", "New Hartford", "New Milford", "Norfolk", "North Canaan", "Plymouth", "Roxbury", "Salisbury", "Sharon", "Thomaston", "Torrington", "Warren", "Washington", "Watertown", "Winchester", "Woodbury", "Barkhamsted", "Bethlehem", "Bridgewater", "Canaan", "Colebrook", "Cornwall", "Goshen", "Harwinton", "Kent", "Litchfield", "Litchfield County", "Morris", "New Hartford", "New Milford", "Norfolk", "North Canaan", "Plymouth", "Roxbury", "Salisbury", "Sharon", "Thomaston", "Torrington", "Warren", "Washington", "Watertown", "Winchester", "Woodbury", "Barkhamsted", "Bethlehem", "Bridgewater", "Canaan", "Colebrook", "Cornwall", "Goshen", "Harwinton", "Kent", "Litchfield", "Litchfield County", "Morris", "New Hartford", "New Milford", "Norfolk", "North Canaan", "Plymouth", "Roxbury", "Salisbury", "Sharon", "Thomaston", "Torrington", "Warren", "Washington", "Watertown", "Winchester", "Woodbury", "Barkhamsted", "Barkhamsted", "Bethlehem", "Bethlehem", "Bridgewater", "Bridgewater", "Canaan", "Canaan", "Colebrook", "Colebrook", "Cornwall", "Cornwall", "Goshen", "Goshen", "Harwinton", "Harwinton", "Kent", "Kent", "Litchfield", "Litchfield", "Litchfield County", "Litchfield County", "Morris", "Morris", "New Hartford", "New Hartford", "New Milford", "New Milford", "Norfolk", "Norfolk", "North Canaan", "North Canaan", "Plymouth", "Plymouth", "Roxbury", "Roxbury", "Salisbury", "Salisbury", "Sharon", "Sharon", "Thomaston", "Thomaston", "Torrington", "Torrington", "Warren", "Warren", "Washington", "Washington", "Watertown", "Watertown", "Winchester", "Winchester", "Woodbury", "Woodbury", "Barkhamsted", "Bethlehem", "Bridgewater", "Canaan", "Colebrook", "Cornwall", "Goshen", "Harwinton", "Kent", "Litchfield", "Litchfield County", "Morris", "New Hartford", "New Milford", "Norfolk", "North Canaan", "Plymouth", "Roxbury", "Salisbury", "Sharon", "Thomaston", "Torrington", "Warren", "Washington", "Watertown", "Winchester", "Woodbury", "Barkhamsted", "Bethlehem", "Bridgewater", "Canaan", "Colebrook", "Cornwall", "Goshen", "Harwinton", "Kent", "Litchfield", "Litchfield County", "Morris", "New Hartford", "New Milford", "Norfolk", "North Canaan", "Plymouth", "Roxbury", "Salisbury", "Sharon", "Thomaston", "Torrington", "Warren", "Washington", "Watertown", "Winchester", "Woodbury", "Barkhamsted", "Bethlehem", "Bridgewater", "Canaan", "Colebrook", "Cornwall", "Goshen", "Harwinton", "Kent", "Litchfield", "Litchfield County", "Morris", "New Hartford", "New Milford", "Norfolk", "North Canaan", "Plymouth", "Roxbury", "Salisbury", "Sharon", "Thomaston", "Torrington", "Warren", "Washington", "Watertown", "Winchester", "Woodbury", "Barkhamsted", "Bethlehem", "Bridgewater", "Canaan", "Colebrook", "Cornwall", "Goshen", "Harwinton", "Kent", "Litchfield", "Litchfield County", "Morris", "New Hartford", "New Milford", "Norfolk", "North Canaan", "Plymouth", "Roxbury", "Salisbury", "Sharon", "Thomaston", "Torrington", "Warren", "Washington", "Watertown", "Winchester", "Woodbury", "Barkhamsted", "Bethlehem", "Bridgewater", "Canaan", "Colebrook", "Cornwall", "Goshen", "Harwinton", "Kent", "Litchfield", "Litchfield County", "Morris", "New Hartford", "New Milford", "Norfolk", "North Canaan", "Plymouth", "Roxbury", "Salisbury", "Sharon", "Thomaston", "Torrington", "Warren", "Washington", "Watertown", "Winchester", "Woodbury", "Barkhamsted", "Bethlehem", "Bridgewater", "Canaan", "Colebrook", "Cornwall", "Goshen", "Harwinton", "Kent", "Litchfield", "Litchfield County", "Morris", "New Hartford", "New Milford", "Norfolk", "North Canaan", "Plymouth", "Roxbury", "Salisbury", "Sharon", "Thomaston", "Torrington", "Warren", "Washington", "Watertown", "Winchester", "Woodbury"],
-  "Chart": ["211", "211", "211", "211", "211", "211", "211", "211", "211", "211", "211", "211", "211", "211", "211", "211", "211", "211", "211", "211", "211", "211", "211", "211", "211", "211", "211", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGB", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AGE", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "AMI", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "BED", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HCB", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HHS", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HSP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "HTP", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "OCC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "RAC", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN", "TEN"],
-  "series": [
-    {
+[
+  {
+    "Locality": "Barkhamsted",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -55,8 +55,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bethlehem",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -109,8 +113,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bridgewater",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -163,8 +171,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Canaan",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -217,8 +229,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Colebrook",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -271,8 +287,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Cornwall",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -325,8 +345,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Goshen",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -379,8 +403,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Harwinton",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -433,8 +461,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Kent",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -487,8 +519,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -541,8 +577,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield County",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -595,8 +635,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Morris",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -649,8 +693,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Hartford",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -703,8 +751,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Milford",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -757,8 +809,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Norfolk",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -811,8 +867,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "North Canaan",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -865,8 +925,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Plymouth",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -919,8 +983,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Roxbury",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -973,8 +1041,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Salisbury",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -1027,8 +1099,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Sharon",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -1081,8 +1157,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Thomaston",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -1135,8 +1215,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Torrington",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -1189,8 +1273,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Warren",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -1243,8 +1331,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Washington",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -1297,8 +1389,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Watertown",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -1351,8 +1447,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Winchester",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -1405,8 +1505,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Woodbury",
+    "Chart": "211",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -1459,8 +1563,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Barkhamsted",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -1487,8 +1595,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Barkhamsted",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -1515,8 +1627,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bethlehem",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -1543,8 +1659,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bethlehem",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -1571,8 +1691,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bridgewater",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -1599,8 +1723,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bridgewater",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -1627,8 +1755,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Canaan",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -1655,8 +1787,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Canaan",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -1683,8 +1819,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Colebrook",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -1711,8 +1851,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Colebrook",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -1739,8 +1883,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Cornwall",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -1767,8 +1915,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Cornwall",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -1795,8 +1947,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Goshen",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -1823,8 +1979,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Goshen",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -1851,8 +2011,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Harwinton",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -1879,8 +2043,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Harwinton",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -1907,8 +2075,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Kent",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -1935,8 +2107,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Kent",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -1963,8 +2139,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -1991,8 +2171,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -2019,8 +2203,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield County",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -2047,8 +2235,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield County",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -2075,8 +2267,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Morris",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -2103,8 +2299,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Morris",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -2131,8 +2331,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Hartford",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -2159,8 +2363,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Hartford",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -2187,8 +2395,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Milford",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -2215,8 +2427,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Milford",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -2243,8 +2459,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Norfolk",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -2271,8 +2491,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Norfolk",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -2299,8 +2523,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "North Canaan",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -2327,8 +2555,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "North Canaan",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -2355,8 +2587,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Plymouth",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -2383,8 +2619,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Plymouth",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -2411,8 +2651,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Roxbury",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -2439,8 +2683,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Roxbury",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -2467,8 +2715,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Salisbury",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -2495,8 +2747,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Salisbury",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -2523,8 +2779,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Sharon",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -2551,8 +2811,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Sharon",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -2579,8 +2843,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Thomaston",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -2607,8 +2875,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Thomaston",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -2635,8 +2907,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Torrington",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -2663,8 +2939,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Torrington",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -2691,8 +2971,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Warren",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -2719,8 +3003,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Warren",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -2747,8 +3035,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Washington",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -2775,8 +3067,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Washington",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -2803,8 +3099,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Watertown",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -2831,8 +3131,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Watertown",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -2859,8 +3163,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Winchester",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -2887,8 +3195,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Winchester",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -2915,8 +3227,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Woodbury",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people 65 years and over",
       "data": [
         {
@@ -2943,8 +3259,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Woodbury",
+    "Chart": "AGB",
+    "series": {
       "name": "Households with one or more people under 18 years",
       "data": [
         {
@@ -2971,8 +3291,12 @@
         }
       ],
       "type": "line"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Barkhamsted",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -3058,8 +3382,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bethlehem",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -3145,8 +3473,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bridgewater",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -3232,8 +3564,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Canaan",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -3319,8 +3655,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Colebrook",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -3406,8 +3746,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Cornwall",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -3493,8 +3837,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Goshen",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -3580,8 +3928,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Harwinton",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -3667,8 +4019,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Kent",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -3754,8 +4110,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -3841,8 +4201,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield County",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -3928,8 +4292,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Morris",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -4015,8 +4383,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Hartford",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -4102,8 +4474,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Milford",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -4189,8 +4565,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Norfolk",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -4276,8 +4656,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "North Canaan",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -4363,8 +4747,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Plymouth",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -4450,8 +4838,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Roxbury",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -4537,8 +4929,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Salisbury",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -4624,8 +5020,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Sharon",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -4711,8 +5111,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Thomaston",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -4798,8 +5202,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Torrington",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -4885,8 +5293,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Warren",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -4972,8 +5384,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Washington",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5059,8 +5475,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Watertown",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5146,8 +5566,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Winchester",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5233,8 +5657,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Woodbury",
+    "Chart": "AGE",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5320,8 +5748,12 @@
         }
       ],
       "type": "bar"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Barkhamsted",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5350,8 +5782,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bethlehem",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5380,8 +5816,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bridgewater",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5410,8 +5850,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Canaan",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5440,8 +5884,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Colebrook",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5470,8 +5918,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Cornwall",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5500,8 +5952,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Goshen",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5530,8 +5986,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Harwinton",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5560,8 +6020,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Kent",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5590,8 +6054,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5620,8 +6088,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield County",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5650,8 +6122,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Morris",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5680,8 +6156,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Hartford",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5710,8 +6190,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Milford",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5740,8 +6224,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Norfolk",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5770,8 +6258,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "North Canaan",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5800,8 +6292,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Plymouth",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5830,8 +6326,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Roxbury",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5860,8 +6360,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Salisbury",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5890,8 +6394,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Sharon",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5920,8 +6428,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Thomaston",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5950,8 +6462,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Torrington",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -5980,8 +6496,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Warren",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6010,8 +6530,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Washington",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6040,8 +6564,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Watertown",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6070,8 +6598,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Winchester",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6100,8 +6632,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Woodbury",
+    "Chart": "AMI",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6130,8 +6666,12 @@
         }
       ],
       "type": "column"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Barkhamsted",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6184,8 +6724,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bethlehem",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6238,8 +6782,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bridgewater",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6292,8 +6840,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Canaan",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6346,8 +6898,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Colebrook",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6400,8 +6956,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Cornwall",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6454,8 +7014,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Goshen",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6508,8 +7072,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Harwinton",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6562,8 +7130,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Kent",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6616,8 +7188,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6670,8 +7246,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield County",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6724,8 +7304,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Morris",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6778,8 +7362,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Hartford",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6832,8 +7420,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Milford",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6886,8 +7478,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Norfolk",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6940,8 +7536,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "North Canaan",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -6994,8 +7594,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Plymouth",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -7048,8 +7652,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Roxbury",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -7102,8 +7710,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Salisbury",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -7156,8 +7768,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Sharon",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -7210,8 +7826,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Thomaston",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -7264,8 +7884,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Torrington",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -7318,8 +7942,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Warren",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -7372,8 +8000,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Washington",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -7426,8 +8058,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Watertown",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -7480,8 +8116,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Winchester",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -7534,8 +8174,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Woodbury",
+    "Chart": "BED",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -7588,332 +8232,552 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Barkhamsted",
+    "Chart": "HCB",
+    "series": {
       "data": [104, 35, 0, 0, 0],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Barkhamsted",
+    "Chart": "HCB",
+    "series": {
       "data": [10, 10, 70, 0, 25],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bethlehem",
+    "Chart": "HCB",
+    "series": {
       "data": [170, 40, 34, 10, 0],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bethlehem",
+    "Chart": "HCB",
+    "series": {
       "data": [30, 45, 50, 30, 10],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bridgewater",
+    "Chart": "HCB",
+    "series": {
       "data": [29, 10, 15, 0, 10],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bridgewater",
+    "Chart": "HCB",
+    "series": {
       "data": [4, 14, 35, 14, 29],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Canaan",
+    "Chart": "HCB",
+    "series": {
       "data": [84, 4, 4, 0, 4],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Canaan",
+    "Chart": "HCB",
+    "series": {
       "data": [15, 8, 45, 10, 20],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Colebrook",
+    "Chart": "HCB",
+    "series": {
       "data": [34, 20, 4, 0, 0],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Colebrook",
+    "Chart": "HCB",
+    "series": {
       "data": [4, 10, 4, 4, 4],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Cornwall",
+    "Chart": "HCB",
+    "series": {
       "data": [40, 14, 20, 0, 0],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Cornwall",
+    "Chart": "HCB",
+    "series": {
       "data": [14, 40, 30, 8, 55],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Goshen",
+    "Chart": "HCB",
+    "series": {
       "data": [70, 19, 0, 0, 0],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Goshen",
+    "Chart": "HCB",
+    "series": {
       "data": [0, 20, 60, 4, 15],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Harwinton",
+    "Chart": "HCB",
+    "series": {
       "data": [65, 0, 35, 0, 10],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Harwinton",
+    "Chart": "HCB",
+    "series": {
       "data": [10, 75, 180, 60, 60],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Kent",
+    "Chart": "HCB",
+    "series": {
       "data": [39, 80, 15, 4, 0],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Kent",
+    "Chart": "HCB",
+    "series": {
       "data": [0, 30, 135, 15, 15],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield",
+    "Chart": "HCB",
+    "series": {
       "data": [340, 115, 59, 0, 4],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield",
+    "Chart": "HCB",
+    "series": {
       "data": [65, 115, 194, 35, 90],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield County",
+    "Chart": "HCB",
+    "series": {
       "data": [],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield County",
+    "Chart": "HCB",
+    "series": {
       "data": [],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Morris",
+    "Chart": "HCB",
+    "series": {
       "data": [60, 45, 15, 4, 0],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Morris",
+    "Chart": "HCB",
+    "series": {
       "data": [19, 49, 39, 25, 30],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Hartford",
+    "Chart": "HCB",
+    "series": {
       "data": [45, 80, 40, 15, 0],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Hartford",
+    "Chart": "HCB",
+    "series": {
       "data": [30, 85, 110, 90, 70],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Milford",
+    "Chart": "HCB",
+    "series": {
       "data": [745, 245, 125, 25, 45],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Milford",
+    "Chart": "HCB",
+    "series": {
       "data": [120, 490, 685, 340, 520],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Norfolk",
+    "Chart": "HCB",
+    "series": {
       "data": [65, 15, 19, 10, 0],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Norfolk",
+    "Chart": "HCB",
+    "series": {
       "data": [35, 45, 30, 8, 35],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "North Canaan",
+    "Chart": "HCB",
+    "series": {
       "data": [179, 35, 40, 0, 0],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "North Canaan",
+    "Chart": "HCB",
+    "series": {
       "data": [65, 75, 65, 10, 10],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Plymouth",
+    "Chart": "HCB",
+    "series": {
       "data": [455, 195, 15, 0, 4],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Plymouth",
+    "Chart": "HCB",
+    "series": {
       "data": [120, 265, 295, 80, 50],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Roxbury",
+    "Chart": "HCB",
+    "series": {
       "data": [125, 8, 20, 10, 25],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Roxbury",
+    "Chart": "HCB",
+    "series": {
       "data": [4, 10, 20, 39, 110],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Salisbury",
+    "Chart": "HCB",
+    "series": {
       "data": [85, 75, 40, 4, 0],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Salisbury",
+    "Chart": "HCB",
+    "series": {
       "data": [15, 10, 35, 70, 15],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Sharon",
+    "Chart": "HCB",
+    "series": {
       "data": [95, 50, 30, 0, 10],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Sharon",
+    "Chart": "HCB",
+    "series": {
       "data": [50, 40, 0, 10, 45],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Thomaston",
+    "Chart": "HCB",
+    "series": {
       "data": [190, 120, 35, 20, 0],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Thomaston",
+    "Chart": "HCB",
+    "series": {
       "data": [84, 235, 175, 55, 35],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Torrington",
+    "Chart": "HCB",
+    "series": {
       "data": [1544, 580, 155, 20, 0],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Torrington",
+    "Chart": "HCB",
+    "series": {
       "data": [444, 1040, 785, 140, 75],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Warren",
+    "Chart": "HCB",
+    "series": {
       "data": [35, 20, 20, 10, 4],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Warren",
+    "Chart": "HCB",
+    "series": {
       "data": [4, 14, 14, 0, 14],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Washington",
+    "Chart": "HCB",
+    "series": {
       "data": [135, 50, 70, 10, 0],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Washington",
+    "Chart": "HCB",
+    "series": {
       "data": [10, 75, 34, 15, 100],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Watertown",
+    "Chart": "HCB",
+    "series": {
       "data": [665, 325, 145, 20, 0],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Watertown",
+    "Chart": "HCB",
+    "series": {
       "data": [135, 620, 780, 90, 105],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Winchester",
+    "Chart": "HCB",
+    "series": {
       "data": [835, 65, 145, 0, 0],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Winchester",
+    "Chart": "HCB",
+    "series": {
       "data": [130, 295, 150, 55, 80],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Woodbury",
+    "Chart": "HCB",
+    "series": {
       "data": [245, 130, 90, 25, 30],
       "name": "Severely burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Woodbury",
+    "Chart": "HCB",
+    "series": {
       "data": [100, 225, 165, 90, 95],
       "name": "Burdened",
       "type": "column",
       "stack": "Burdened"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Barkhamsted",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -7958,8 +8822,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bethlehem",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8004,8 +8872,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bridgewater",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8050,8 +8922,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Canaan",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8096,8 +8972,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Colebrook",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8142,8 +9022,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Cornwall",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8188,8 +9072,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Goshen",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8234,8 +9122,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Harwinton",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8280,8 +9172,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Kent",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8326,8 +9222,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8372,8 +9272,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield County",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8418,8 +9322,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Morris",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8464,8 +9372,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Hartford",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8510,8 +9422,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Milford",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8556,8 +9472,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Norfolk",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8602,8 +9522,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "North Canaan",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8648,8 +9572,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Plymouth",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8694,8 +9622,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Roxbury",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8740,8 +9672,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Salisbury",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8786,8 +9722,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Sharon",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8832,8 +9772,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Thomaston",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8878,8 +9822,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Torrington",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8924,8 +9872,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Warren",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -8970,8 +9922,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Washington",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9016,8 +9972,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Watertown",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9062,8 +10022,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Winchester",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9108,8 +10072,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Woodbury",
+    "Chart": "HHS",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9154,8 +10122,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Barkhamsted",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9201,8 +10173,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bethlehem",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9248,8 +10224,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bridgewater",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9295,8 +10275,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Canaan",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9342,8 +10326,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Colebrook",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9389,8 +10377,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Cornwall",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9436,8 +10428,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Goshen",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9483,8 +10479,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Harwinton",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9530,8 +10530,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Kent",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9577,8 +10581,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9624,8 +10632,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield County",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9671,8 +10683,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Morris",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9718,8 +10734,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Hartford",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9765,8 +10785,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Milford",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9812,8 +10836,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Norfolk",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9859,8 +10887,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "North Canaan",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9906,8 +10938,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Plymouth",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -9953,8 +10989,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Roxbury",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10000,8 +11040,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Salisbury",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10047,8 +11091,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Sharon",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10094,8 +11142,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Thomaston",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10141,8 +11193,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Torrington",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10188,8 +11244,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Warren",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10235,8 +11295,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Washington",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10282,8 +11346,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Watertown",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10329,8 +11397,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Winchester",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10376,8 +11448,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Woodbury",
+    "Chart": "HSP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10423,8 +11499,12 @@
       ],
       "type": "line",
       "name": "Median Sale Price"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Barkhamsted",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10477,8 +11557,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bethlehem",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10531,8 +11615,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bridgewater",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10585,8 +11673,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Canaan",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10639,8 +11731,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Colebrook",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10693,8 +11789,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Cornwall",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10747,8 +11847,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Goshen",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10801,8 +11905,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Harwinton",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10855,8 +11963,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Kent",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10909,8 +12021,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -10963,8 +12079,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield County",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11017,8 +12137,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Morris",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11071,8 +12195,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Hartford",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11125,8 +12253,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Milford",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11179,8 +12311,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Norfolk",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11233,8 +12369,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "North Canaan",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11287,8 +12427,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Plymouth",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11341,8 +12485,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Roxbury",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11395,8 +12543,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Salisbury",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11449,8 +12601,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Sharon",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11503,8 +12659,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Thomaston",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11557,8 +12717,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Torrington",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11611,8 +12775,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Warren",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11665,8 +12833,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Washington",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11719,8 +12891,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Watertown",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11773,8 +12949,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Winchester",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11827,8 +13007,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Woodbury",
+    "Chart": "HTP",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11881,8 +13065,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Barkhamsted",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11915,8 +13103,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bethlehem",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11949,8 +13141,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bridgewater",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -11983,8 +13179,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Canaan",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12017,8 +13217,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Colebrook",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12051,8 +13255,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Cornwall",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12085,8 +13293,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Goshen",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12119,8 +13331,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Harwinton",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12153,8 +13369,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Kent",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12187,8 +13407,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12221,8 +13445,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield County",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12255,8 +13483,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Morris",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12289,8 +13521,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Hartford",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12323,8 +13559,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Milford",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12357,8 +13597,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Norfolk",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12391,8 +13635,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "North Canaan",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12425,8 +13673,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Plymouth",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12459,8 +13711,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Roxbury",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12493,8 +13749,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Salisbury",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12527,8 +13787,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Sharon",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12561,8 +13825,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Thomaston",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12595,8 +13863,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Torrington",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12629,8 +13901,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Warren",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12663,8 +13939,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Washington",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12697,8 +13977,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Watertown",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12731,8 +14015,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Winchester",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12765,8 +14053,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Woodbury",
+    "Chart": "OCC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12799,8 +14091,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Barkhamsted",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12853,8 +14149,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bethlehem",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12907,8 +14207,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bridgewater",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -12961,8 +14265,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Canaan",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13015,8 +14323,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Colebrook",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13069,8 +14381,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Cornwall",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13123,8 +14439,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Goshen",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13177,8 +14497,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Harwinton",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13231,8 +14555,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Kent",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13285,8 +14613,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13339,8 +14671,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield County",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13393,8 +14729,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Morris",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13447,8 +14787,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Hartford",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13501,8 +14845,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Milford",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13555,8 +14903,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Norfolk",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13609,8 +14961,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "North Canaan",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13663,8 +15019,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Plymouth",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13717,8 +15077,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Roxbury",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13771,8 +15135,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Salisbury",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13825,8 +15193,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Sharon",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13879,8 +15251,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Thomaston",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13933,8 +15309,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Torrington",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -13987,8 +15367,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Warren",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14041,8 +15425,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Washington",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14095,8 +15483,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Watertown",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14149,8 +15541,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Winchester",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14203,8 +15599,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Woodbury",
+    "Chart": "RAC",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14257,8 +15657,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Barkhamsted",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14279,8 +15683,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bethlehem",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14301,8 +15709,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Bridgewater",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14323,8 +15735,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Canaan",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14345,8 +15761,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Colebrook",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14367,8 +15787,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Cornwall",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14389,8 +15813,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Goshen",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14411,8 +15839,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Harwinton",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14433,8 +15865,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Kent",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14455,8 +15891,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14477,8 +15917,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Litchfield County",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14499,8 +15943,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Morris",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14521,8 +15969,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Hartford",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14543,8 +15995,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "New Milford",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14565,8 +16021,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Norfolk",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14587,8 +16047,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "North Canaan",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14609,8 +16073,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Plymouth",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14631,8 +16099,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Roxbury",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14653,8 +16125,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Salisbury",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14675,8 +16151,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Sharon",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14697,8 +16177,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Thomaston",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14719,8 +16203,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Torrington",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14741,8 +16229,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Warren",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14763,8 +16255,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Washington",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14785,8 +16281,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Watertown",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14807,8 +16307,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Winchester",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14829,8 +16333,12 @@
         }
       ],
       "type": "pie"
-    },
-    {
+    }
+  },
+  {
+    "Locality": "Woodbury",
+    "Chart": "TEN",
+    "series": {
       "group": "group",
       "data": [
         {
@@ -14852,8 +16360,161 @@
       ],
       "type": "pie"
     }
-  ],
-  "Locality.1": ["Barkhamsted", "Bethlehem", "Bridgewater", "Canaan", "Colebrook", "Cornwall", "Goshen", "Harwinton", "Kent", "Litchfield", "Morris", "New Hartford", "New Milford", "Norfolk", "North Canaan", "Plymouth", "Roxbury", "Salisbury", "Sharon", "Thomaston", "Torrington", "Warren", "Washington", "Watertown", "Winchester", "Woodbury"],
-  "textVar": ["AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH", "AMI80HH"],
-  "value": [369, 458, 154, 269, 161, 251, 302, 625, 498, 1332, 380, 770, 3375, 314, 689, 2165, 236, 665, 419, 1444, 7873, 150, 459, 4290, 2410, 1330]
-}
+  },
+  {
+    "Locality": "Barkhamsted",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 369
+  },
+  {
+    "Locality": "Bethlehem",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 458
+  },
+  {
+    "Locality": "Bridgewater",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 154
+  },
+  {
+    "Locality": "Canaan",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 269
+  },
+  {
+    "Locality": "Colebrook",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 161
+  },
+  {
+    "Locality": "Cornwall",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 251
+  },
+  {
+    "Locality": "Goshen",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 302
+  },
+  {
+    "Locality": "Harwinton",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 625
+  },
+  {
+    "Locality": "Kent",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 498
+  },
+  {
+    "Locality": "Litchfield",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 1332
+  },
+  {
+    "Locality": "Morris",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 380
+  },
+  {
+    "Locality": "New Hartford",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 770
+  },
+  {
+    "Locality": "New Milford",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 3375
+  },
+  {
+    "Locality": "Norfolk",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 314
+  },
+  {
+    "Locality": "North Canaan",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 689
+  },
+  {
+    "Locality": "Plymouth",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 2165
+  },
+  {
+    "Locality": "Roxbury",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 236
+  },
+  {
+    "Locality": "Salisbury",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 665
+  },
+  {
+    "Locality": "Sharon",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 419
+  },
+  {
+    "Locality": "Thomaston",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 1444
+  },
+  {
+    "Locality": "Torrington",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 7873
+  },
+  {
+    "Locality": "Warren",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 150
+  },
+  {
+    "Locality": "Washington",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 459
+  },
+  {
+    "Locality": "Watertown",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 4290
+  },
+  {
+    "Locality": "Winchester",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 2410
+  },
+  {
+    "Locality": "Woodbury",
+    "series": {},
+    "textVar": "AMI80HH",
+    "value": 1330
+  }
+]
