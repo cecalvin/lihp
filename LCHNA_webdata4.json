@@ -16516,5 +16516,161 @@
     "series": {},
     "textVar": "AMI80HH",
     "value": 1330
+  },
+  {
+    "Locality": "Torrington",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 1733
+  },
+  {
+    "Locality": "Barkhamsted",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 26
+  },
+  {
+    "Locality": "Bethlehem",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 28
+  },
+  {
+    "Locality": "Bridgewater",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 1
+  },
+  {
+    "Locality": "Canaan",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 10
+  },
+  {
+    "Locality": "Colebrook",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 8
+  },
+  {
+    "Locality": "Cornwall",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 36
+  },
+  {
+    "Locality": "Goshen",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 5
+  },
+  {
+    "Locality": "Harwinton",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 64
+  },
+  {
+    "Locality": "Kent",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 64
+  },
+  {
+    "Locality": "Litchfield",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 188
+  },
+  {
+    "Locality": "Morris",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 26
+  },
+  {
+    "Locality": "New Hartford",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 71
+  },
+  {
+    "Locality": "New Milford",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 520
+  },
+  {
+    "Locality": "Norfolk",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 28
+  },
+  {
+    "Locality": "North Canaan",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 126
+  },
+  {
+    "Locality": "Plymouth",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 361
+  },
+  {
+    "Locality": "Roxbury",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 23
+  },
+  {
+    "Locality": "Salisbury",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 40
+  },
+  {
+    "Locality": "Sharon",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 35
+  },
+  {
+    "Locality": "Thomaston",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 205
+  },
+  {
+    "Locality": "Warren",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 0
+  },
+  {
+    "Locality": "Washington",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 49
+  },
+  {
+    "Locality": "Watertown",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 438
+  },
+  {
+    "Locality": "Winchester",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 509
+  },
+  {
+    "Locality": "Woodbury",
+    "series": {},
+    "textVar": "SUBHU22",
+    "value": 92
   }
 ]
