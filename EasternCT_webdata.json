@@ -34311,6 +34311,2897 @@
   },
   {
     "Locality": "Andover",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Andover",
+          "value": 481,
+          "y": 481,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Andover",
+          "value": 457,
+          "y": 457,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Andover",
+          "value": 460,
+          "y": 460,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Andover",
+          "value": 460,
+          "y": 460,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Andover",
+          "value": 413,
+          "y": 413,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Andover",
+          "value": 402,
+          "y": 402,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Andover",
+          "value": 383,
+          "y": 383,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Ashford",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Ashford",
+          "value": 610,
+          "y": 610,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Ashford",
+          "value": 568,
+          "y": 568,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Ashford",
+          "value": 561,
+          "y": 561,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Ashford",
+          "value": 540,
+          "y": 540,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Ashford",
+          "value": 564,
+          "y": 564,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Ashford",
+          "value": 563,
+          "y": 563,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Ashford",
+          "value": 548,
+          "y": 548,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Bolton",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Bolton",
+          "value": 739,
+          "y": 739,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Bolton",
+          "value": 716,
+          "y": 716,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Bolton",
+          "value": 707,
+          "y": 707,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Bolton",
+          "value": 690,
+          "y": 690,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Bolton",
+          "value": 694,
+          "y": 694,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Bolton",
+          "value": 705,
+          "y": 705,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Bolton",
+          "value": 696,
+          "y": 696,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Bozrah",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Bozrah",
+          "value": 313,
+          "y": 313,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Bozrah",
+          "value": 294,
+          "y": 294,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Bozrah",
+          "value": 270,
+          "y": 270,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Bozrah",
+          "value": 261,
+          "y": 261,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Bozrah",
+          "value": 278,
+          "y": 278,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Bozrah",
+          "value": 284,
+          "y": 284,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Bozrah",
+          "value": 272,
+          "y": 272,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Brooklyn",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Brooklyn",
+          "value": 1274,
+          "y": 1274,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Brooklyn",
+          "value": 1309,
+          "y": 1309,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Brooklyn",
+          "value": 1319,
+          "y": 1319,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Brooklyn",
+          "value": 1338,
+          "y": 1338,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Brooklyn",
+          "value": 1245,
+          "y": 1245,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Brooklyn",
+          "value": 1266,
+          "y": 1266,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Brooklyn",
+          "value": 1285,
+          "y": 1285,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Canterbury",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Canterbury",
+          "value": 727,
+          "y": 727,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Canterbury",
+          "value": 745,
+          "y": 745,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Canterbury",
+          "value": 753,
+          "y": 753,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Canterbury",
+          "value": 739,
+          "y": 739,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Canterbury",
+          "value": 690,
+          "y": 690,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Canterbury",
+          "value": 685,
+          "y": 685,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Canterbury",
+          "value": 687,
+          "y": 687,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Chaplin",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Chaplin",
+          "value": 282,
+          "y": 282,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Chaplin",
+          "value": 275,
+          "y": 275,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Chaplin",
+          "value": 252,
+          "y": 252,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Chaplin",
+          "value": 260,
+          "y": 260,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Chaplin",
+          "value": 276,
+          "y": 276,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Chaplin",
+          "value": 308,
+          "y": 308,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Chaplin",
+          "value": 309,
+          "y": 309,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Colchester",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Colchester",
+          "value": 2659,
+          "y": 2659,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Colchester",
+          "value": 2584,
+          "y": 2584,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Colchester",
+          "value": 2486,
+          "y": 2486,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Colchester",
+          "value": 2389,
+          "y": 2389,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Colchester",
+          "value": 2283,
+          "y": 2283,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Colchester",
+          "value": 2328,
+          "y": 2328,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Colchester",
+          "value": 2303,
+          "y": 2303,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Columbia",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Columbia",
+          "value": 750,
+          "y": 750,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Columbia",
+          "value": 733,
+          "y": 733,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Columbia",
+          "value": 699,
+          "y": 699,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Columbia",
+          "value": 686,
+          "y": 686,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Columbia",
+          "value": 683,
+          "y": 683,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Columbia",
+          "value": 684,
+          "y": 684,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Columbia",
+          "value": 705,
+          "y": 705,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Coventry",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Coventry",
+          "value": 1723,
+          "y": 1723,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Coventry",
+          "value": 1708,
+          "y": 1708,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Coventry",
+          "value": 1660,
+          "y": 1660,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Coventry",
+          "value": 1694,
+          "y": 1694,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Coventry",
+          "value": 1647,
+          "y": 1647,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Coventry",
+          "value": 1649,
+          "y": 1649,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Coventry",
+          "value": 1744,
+          "y": 1744,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "East Lyme",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "East Lyme",
+          "value": 2694,
+          "y": 2694,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "East Lyme",
+          "value": 2651,
+          "y": 2651,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "East Lyme",
+          "value": 2655,
+          "y": 2655,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "East Lyme",
+          "value": 2607,
+          "y": 2607,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "East Lyme",
+          "value": 2513,
+          "y": 2513,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "East Lyme",
+          "value": 2595,
+          "y": 2595,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "East Lyme",
+          "value": 2554,
+          "y": 2554,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Eastford",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Eastford",
+          "value": 209,
+          "y": 209,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Eastford",
+          "value": 209,
+          "y": 209,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Eastford",
+          "value": 225,
+          "y": 225,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Eastford",
+          "value": 202,
+          "y": 202,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Eastford",
+          "value": 206,
+          "y": 206,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Eastford",
+          "value": 204,
+          "y": 204,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Eastford",
+          "value": 211,
+          "y": 211,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Ellington",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Ellington",
+          "value": 2737,
+          "y": 2737,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Ellington",
+          "value": 2756,
+          "y": 2756,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Ellington",
+          "value": 2739,
+          "y": 2739,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Ellington",
+          "value": 2699,
+          "y": 2699,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Ellington",
+          "value": 2615,
+          "y": 2615,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Ellington",
+          "value": 2655,
+          "y": 2655,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Ellington",
+          "value": 2618,
+          "y": 2618,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Franklin",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Franklin",
+          "value": 268,
+          "y": 268,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Franklin",
+          "value": 257,
+          "y": 257,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Franklin",
+          "value": 243,
+          "y": 243,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Franklin",
+          "value": 236,
+          "y": 236,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Franklin",
+          "value": 241,
+          "y": 241,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Franklin",
+          "value": 255,
+          "y": 255,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Franklin",
+          "value": 265,
+          "y": 265,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Griswold",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Griswold",
+          "value": 1832,
+          "y": 1832,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Griswold",
+          "value": 1801,
+          "y": 1801,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Griswold",
+          "value": 1796,
+          "y": 1796,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Griswold",
+          "value": 1762,
+          "y": 1762,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Griswold",
+          "value": 1731,
+          "y": 1731,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Griswold",
+          "value": 1730,
+          "y": 1730,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Griswold",
+          "value": 1737,
+          "y": 1737,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Groton",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Groton",
+          "value": 4584,
+          "y": 4584,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Groton",
+          "value": 4563,
+          "y": 4563,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Groton",
+          "value": 4497,
+          "y": 4497,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Groton",
+          "value": 4559,
+          "y": 4559,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Groton",
+          "value": 4495,
+          "y": 4495,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Groton",
+          "value": 4533,
+          "y": 4533,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Groton",
+          "value": 4486,
+          "y": 4486,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Hampton",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Hampton",
+          "value": 192,
+          "y": 192,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Hampton",
+          "value": 174,
+          "y": 174,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Hampton",
+          "value": 162,
+          "y": 162,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Hampton",
+          "value": 169,
+          "y": 169,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Hampton",
+          "value": 140,
+          "y": 140,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Hampton",
+          "value": 154,
+          "y": 154,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Hampton",
+          "value": 144,
+          "y": 144,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Hebron",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Hebron",
+          "value": 1558,
+          "y": 1558,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Hebron",
+          "value": 1480,
+          "y": 1480,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Hebron",
+          "value": 1373,
+          "y": 1373,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Hebron",
+          "value": 1317,
+          "y": 1317,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Hebron",
+          "value": 1329,
+          "y": 1329,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Hebron",
+          "value": 1325,
+          "y": 1325,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Hebron",
+          "value": 1344,
+          "y": 1344,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Killingly",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Killingly",
+          "value": 2498,
+          "y": 2498,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Killingly",
+          "value": 2463,
+          "y": 2463,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Killingly",
+          "value": 2448,
+          "y": 2448,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Killingly",
+          "value": 2412,
+          "y": 2412,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Killingly",
+          "value": 2291,
+          "y": 2291,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Killingly",
+          "value": 2336,
+          "y": 2336,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Killingly",
+          "value": 2361,
+          "y": 2361,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Lebanon",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Lebanon",
+          "value": 1062,
+          "y": 1062,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Lebanon",
+          "value": 1055,
+          "y": 1055,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Lebanon",
+          "value": 1045,
+          "y": 1045,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Lebanon",
+          "value": 1009,
+          "y": 1009,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Lebanon",
+          "value": 958,
+          "y": 958,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Lebanon",
+          "value": 962,
+          "y": 962,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Lebanon",
+          "value": 938,
+          "y": 938,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Ledyard",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Ledyard",
+          "value": 2411,
+          "y": 2411,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Ledyard",
+          "value": 2447,
+          "y": 2447,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Ledyard",
+          "value": 2439,
+          "y": 2439,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Ledyard",
+          "value": 2469,
+          "y": 2469,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Ledyard",
+          "value": 2442,
+          "y": 2442,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Ledyard",
+          "value": 2532,
+          "y": 2532,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Ledyard",
+          "value": 2471,
+          "y": 2471,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Lisbon",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Lisbon",
+          "value": 626,
+          "y": 626,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Lisbon",
+          "value": 608,
+          "y": 608,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Lisbon",
+          "value": 636,
+          "y": 636,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Lisbon",
+          "value": 643,
+          "y": 643,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Lisbon",
+          "value": 656,
+          "y": 656,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Lisbon",
+          "value": 641,
+          "y": 641,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Lisbon",
+          "value": 588,
+          "y": 588,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Lyme",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Lyme",
+          "value": 272,
+          "y": 272,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Lyme",
+          "value": 269,
+          "y": 269,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Lyme",
+          "value": 246,
+          "y": 246,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Lyme",
+          "value": 247,
+          "y": 247,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Lyme",
+          "value": 242,
+          "y": 242,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Lyme",
+          "value": 237,
+          "y": 237,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Lyme",
+          "value": 231,
+          "y": 231,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Mansfield",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Mansfield",
+          "value": 1780,
+          "y": 1780,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Mansfield",
+          "value": 1721,
+          "y": 1721,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Mansfield",
+          "value": 1731,
+          "y": 1731,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Mansfield",
+          "value": 1698,
+          "y": 1698,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Mansfield",
+          "value": 1594,
+          "y": 1594,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Mansfield",
+          "value": 1570,
+          "y": 1570,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Mansfield",
+          "value": 1583,
+          "y": 1583,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Montville",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Montville",
+          "value": 2469,
+          "y": 2469,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Montville",
+          "value": 2453,
+          "y": 2453,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Montville",
+          "value": 2409,
+          "y": 2409,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Montville",
+          "value": 2398,
+          "y": 2398,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Montville",
+          "value": 2326,
+          "y": 2326,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Montville",
+          "value": 2338,
+          "y": 2338,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Montville",
+          "value": 2357,
+          "y": 2357,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "New London",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "New London",
+          "value": 3754,
+          "y": 3754,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "New London",
+          "value": 3780,
+          "y": 3780,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "New London",
+          "value": 3847,
+          "y": 3847,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "New London",
+          "value": 3792,
+          "y": 3792,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "New London",
+          "value": 3614,
+          "y": 3614,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "New London",
+          "value": 3613,
+          "y": 3613,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "New London",
+          "value": 3531,
+          "y": 3531,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "North Stonington",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "North Stonington",
+          "value": 792,
+          "y": 792,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "North Stonington",
+          "value": 783,
+          "y": 783,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "North Stonington",
+          "value": 770,
+          "y": 770,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "North Stonington",
+          "value": 764,
+          "y": 764,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "North Stonington",
+          "value": 743,
+          "y": 743,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "North Stonington",
+          "value": 786,
+          "y": 786,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "North Stonington",
+          "value": 762,
+          "y": 762,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Norwich",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Norwich",
+          "value": 5995,
+          "y": 5995,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Norwich",
+          "value": 5896,
+          "y": 5896,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Norwich",
+          "value": 5915,
+          "y": 5915,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Norwich",
+          "value": 5926,
+          "y": 5926,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Norwich",
+          "value": 5712,
+          "y": 5712,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Norwich",
+          "value": 5650,
+          "y": 5650,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Norwich",
+          "value": 5745,
+          "y": 5745,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Old Lyme",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Old Lyme",
+          "value": 1059,
+          "y": 1059,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Old Lyme",
+          "value": 1036,
+          "y": 1036,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Old Lyme",
+          "value": 1042,
+          "y": 1042,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Old Lyme",
+          "value": 1060,
+          "y": 1060,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Old Lyme",
+          "value": 1078,
+          "y": 1078,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Old Lyme",
+          "value": 1092,
+          "y": 1092,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Old Lyme",
+          "value": 1066,
+          "y": 1066,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Plainfield",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Plainfield",
+          "value": 2457,
+          "y": 2457,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Plainfield",
+          "value": 2423,
+          "y": 2423,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Plainfield",
+          "value": 2351,
+          "y": 2351,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Plainfield",
+          "value": 2313,
+          "y": 2313,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Plainfield",
+          "value": 2164,
+          "y": 2164,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Plainfield",
+          "value": 2166,
+          "y": 2166,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Plainfield",
+          "value": 2143,
+          "y": 2143,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Pomfret",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Pomfret",
+          "value": 606,
+          "y": 606,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Pomfret",
+          "value": 591,
+          "y": 591,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Pomfret",
+          "value": 577,
+          "y": 577,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Pomfret",
+          "value": 584,
+          "y": 584,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Pomfret",
+          "value": 542,
+          "y": 542,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Pomfret",
+          "value": 570,
+          "y": 570,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Pomfret",
+          "value": 558,
+          "y": 558,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Preston",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Preston",
+          "value": 638,
+          "y": 638,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Preston",
+          "value": 649,
+          "y": 649,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Preston",
+          "value": 671,
+          "y": 671,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Preston",
+          "value": 660,
+          "y": 660,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Preston",
+          "value": 633,
+          "y": 633,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Preston",
+          "value": 644,
+          "y": 644,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Preston",
+          "value": 677,
+          "y": 677,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Putnam",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Putnam",
+          "value": 1297,
+          "y": 1297,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Putnam",
+          "value": 1275,
+          "y": 1275,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Putnam",
+          "value": 1277,
+          "y": 1277,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Putnam",
+          "value": 1154,
+          "y": 1154,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Putnam",
+          "value": 1199,
+          "y": 1199,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Putnam",
+          "value": 1116,
+          "y": 1116,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Putnam",
+          "value": 1237,
+          "y": 1237,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Salem",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Salem",
+          "value": 626,
+          "y": 626,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Salem",
+          "value": 619,
+          "y": 619,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Salem",
+          "value": 619,
+          "y": 619,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Salem",
+          "value": 627,
+          "y": 627,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Salem",
+          "value": 602,
+          "y": 602,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Salem",
+          "value": 593,
+          "y": 593,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Salem",
+          "value": 593,
+          "y": 593,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Scotland",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Scotland",
+          "value": 206,
+          "y": 206,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Scotland",
+          "value": 234,
+          "y": 234,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Scotland",
+          "value": 215,
+          "y": 215,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Scotland",
+          "value": 192,
+          "y": 192,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Scotland",
+          "value": 184,
+          "y": 184,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Scotland",
+          "value": 181,
+          "y": 181,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Scotland",
+          "value": 175,
+          "y": 175,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Somers",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Somers",
+          "value": 1408,
+          "y": 1408,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Somers",
+          "value": 1416,
+          "y": 1416,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Somers",
+          "value": 1353,
+          "y": 1353,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Somers",
+          "value": 1387,
+          "y": 1387,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Somers",
+          "value": 1353,
+          "y": 1353,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Somers",
+          "value": 1371,
+          "y": 1371,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Somers",
+          "value": 1369,
+          "y": 1369,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Sprague",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Sprague",
+          "value": 468,
+          "y": 468,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Sprague",
+          "value": 487,
+          "y": 487,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Sprague",
+          "value": 433,
+          "y": 433,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Sprague",
+          "value": 439,
+          "y": 439,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Sprague",
+          "value": 411,
+          "y": 411,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Sprague",
+          "value": 410,
+          "y": 410,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Sprague",
+          "value": 427,
+          "y": 427,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Stafford",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Stafford",
+          "value": 1536,
+          "y": 1536,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Stafford",
+          "value": 1523,
+          "y": 1523,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Stafford",
+          "value": 1490,
+          "y": 1490,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Stafford",
+          "value": 1458,
+          "y": 1458,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Stafford",
+          "value": 1456,
+          "y": 1456,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Stafford",
+          "value": 1477,
+          "y": 1477,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Stafford",
+          "value": 1480,
+          "y": 1480,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Sterling",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Sterling",
+          "value": 637,
+          "y": 637,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Sterling",
+          "value": 588,
+          "y": 588,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Sterling",
+          "value": 576,
+          "y": 576,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Sterling",
+          "value": 558,
+          "y": 558,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Sterling",
+          "value": 507,
+          "y": 507,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Sterling",
+          "value": 512,
+          "y": 512,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Sterling",
+          "value": 516,
+          "y": 516,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Stonington",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Stonington",
+          "value": 2174,
+          "y": 2174,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Stonington",
+          "value": 2164,
+          "y": 2164,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Stonington",
+          "value": 2083,
+          "y": 2083,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Stonington",
+          "value": 2026,
+          "y": 2026,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Stonington",
+          "value": 1982,
+          "y": 1982,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Stonington",
+          "value": 1921,
+          "y": 1921,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Stonington",
+          "value": 1885,
+          "y": 1885,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Thompson",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Thompson",
+          "value": 1101,
+          "y": 1101,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Thompson",
+          "value": 1107,
+          "y": 1107,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Thompson",
+          "value": 1079,
+          "y": 1079,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Thompson",
+          "value": 1084,
+          "y": 1084,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Thompson",
+          "value": 1039,
+          "y": 1039,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Thompson",
+          "value": 963,
+          "y": 963,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Thompson",
+          "value": 990,
+          "y": 990,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Tolland",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Tolland",
+          "value": 2547,
+          "y": 2547,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Tolland",
+          "value": 2502,
+          "y": 2502,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Tolland",
+          "value": 2419,
+          "y": 2419,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Tolland",
+          "value": 2430,
+          "y": 2430,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Tolland",
+          "value": 2385,
+          "y": 2385,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Tolland",
+          "value": 2346,
+          "y": 2346,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Tolland",
+          "value": 2382,
+          "y": 2382,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Union",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Union",
+          "value": 101,
+          "y": 101,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Union",
+          "value": 93,
+          "y": 93,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Union",
+          "value": 93,
+          "y": 93,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Union",
+          "value": 86,
+          "y": 86,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Union",
+          "value": 82,
+          "y": 82,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Union",
+          "value": 70,
+          "y": 70,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Union",
+          "value": 80,
+          "y": 80,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Vernon",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Vernon",
+          "value": 3524,
+          "y": 3524,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Vernon",
+          "value": 3492,
+          "y": 3492,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Vernon",
+          "value": 3477,
+          "y": 3477,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Vernon",
+          "value": 3459,
+          "y": 3459,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Vernon",
+          "value": 3394,
+          "y": 3394,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Vernon",
+          "value": 3428,
+          "y": 3428,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Vernon",
+          "value": 3410,
+          "y": 3410,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Voluntown",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Voluntown",
+          "value": 379,
+          "y": 379,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Voluntown",
+          "value": 367,
+          "y": 367,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Voluntown",
+          "value": 345,
+          "y": 345,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Voluntown",
+          "value": 346,
+          "y": 346,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Voluntown",
+          "value": 370,
+          "y": 370,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Voluntown",
+          "value": 371,
+          "y": 371,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Voluntown",
+          "value": 367,
+          "y": 367,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Waterford",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Waterford",
+          "value": 2746,
+          "y": 2746,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Waterford",
+          "value": 2734,
+          "y": 2734,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Waterford",
+          "value": 2766,
+          "y": 2766,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Waterford",
+          "value": 2720,
+          "y": 2720,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Waterford",
+          "value": 2600,
+          "y": 2600,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Waterford",
+          "value": 2601,
+          "y": 2601,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Waterford",
+          "value": 2575,
+          "y": 2575,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Willington",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Willington",
+          "value": 687,
+          "y": 687,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Willington",
+          "value": 682,
+          "y": 682,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Willington",
+          "value": 665,
+          "y": 665,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Willington",
+          "value": 653,
+          "y": 653,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Willington",
+          "value": 630,
+          "y": 630,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Willington",
+          "value": 611,
+          "y": 611,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Willington",
+          "value": 628,
+          "y": 628,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Windham",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Windham",
+          "value": 3380,
+          "y": 3380,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Windham",
+          "value": 3445,
+          "y": 3445,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Windham",
+          "value": 3655,
+          "y": 3655,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Windham",
+          "value": 3307,
+          "y": 3307,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Windham",
+          "value": 3245,
+          "y": 3245,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Windham",
+          "value": 3217,
+          "y": 3217,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Windham",
+          "value": 3210,
+          "y": 3210,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Woodstock",
+    "Chart": "SCH",
+    "series": {
+      "group": "group",
+      "data": [
+        {
+          "School Year": "2016-17",
+          "Locality": "Woodstock",
+          "value": 1293,
+          "y": 1293,
+          "name": "2016-17"
+        },
+        {
+          "School Year": "2017-18",
+          "Locality": "Woodstock",
+          "value": 1339,
+          "y": 1339,
+          "name": "2017-18"
+        },
+        {
+          "School Year": "2018-19",
+          "Locality": "Woodstock",
+          "value": 1324,
+          "y": 1324,
+          "name": "2018-19"
+        },
+        {
+          "School Year": "2019-20",
+          "Locality": "Woodstock",
+          "value": 1328,
+          "y": 1328,
+          "name": "2019-20"
+        },
+        {
+          "School Year": "2020-21",
+          "Locality": "Woodstock",
+          "value": 1290,
+          "y": 1290,
+          "name": "2020-21"
+        },
+        {
+          "School Year": "2021-22",
+          "Locality": "Woodstock",
+          "value": 1283,
+          "y": 1283,
+          "name": "2021-22"
+        },
+        {
+          "School Year": "2022-23",
+          "Locality": "Woodstock",
+          "value": 1258,
+          "y": 1258,
+          "name": "2022-23"
+        }
+      ],
+      "type": "line"
+    }
+  },
+  {
+    "Locality": "Andover",
     "Chart": "TEN",
     "series": {
       "group": "group",
